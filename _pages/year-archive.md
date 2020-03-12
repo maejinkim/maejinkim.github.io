@@ -1,6 +1,6 @@
 ---
 title: "POST"
-permalink: /month-archive/
+permalink: /year-archive/
 layout: posts
 author_profile: true
 ---
