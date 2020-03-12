@@ -20,7 +20,7 @@ title                    : "MAEDIN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MAEDIN"
-description              : "메지니의 개발 블로그"
+description              : "메지니의 개발 & 일상 블로그 ٩(๑`^´๑)۶"
 url                      : "https://maejinkim.github.io"
 baseurl                  : "/"
 repository               : "maejinkim/maejinkim.github.io"
@@ -96,7 +96,7 @@ author:
   name             : maejinkim
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "96.08.23<br> Kyunghee Univ.<br> Computer Engineering<br> SSAFY 3기"
-  location         : "Seoul, Korea"
+#  location         : "Seoul, Korea"
   email            : "sikhye823@gmail.com"
   links:
     - label: "Email"
