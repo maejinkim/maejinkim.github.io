@@ -96,7 +96,7 @@ author:
   name             : maejinkim
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "96.08.23<br> Kyunghee Univ.<br> Computer Engineering<br> SSAFY 3기"
-#  location         : "Seoul, Korea"
+  location         : #"Seoul, Korea"
   email            : "sikhye823@gmail.com"
   links:
     - label: "Email"
