@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko"
-title                    : "MAEDIN"
+title                    : "MAEJIN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "MAEDIN"
+name                     : "MAEJIN"
 description              : "메지니의 개발 & 일상 블로그"
 url                      : "https://maejinkim.github.io"
 baseurl                  : "/"
@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-166795330-1
     anonymize_ip         : # true, false (default)
 
 
