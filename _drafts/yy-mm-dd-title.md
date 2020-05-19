@@ -1,5 +1,5 @@
 ---
-title: "[분류] 제목"
+title: "[카테고리] 제목"
 
 categories:
 - 카테고리1
