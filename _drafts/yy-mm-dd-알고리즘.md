@@ -9,11 +9,6 @@ tags:
  - 백준
  - bfs
 
-read_time: false
-toc: false
-related: false
-
-
 ---
 
 모든 행성을 터널로 연결하는데 필요한 최소 비용을 출력한다!

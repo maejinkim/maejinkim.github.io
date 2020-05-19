@@ -8,9 +8,6 @@ tags:
  - 태그1
  - 태그2
 
-read_time: false
-toc: false
-related: false
 
 ---
 
